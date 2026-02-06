@@ -15,7 +15,7 @@ This project explores employee attrition trends using Microsoft Power BI. The go
 - Lower salary bands and job dissatisfaction strongly correlate with attrition.
 
 ## 📷 Dashboard Preview
-![Attrition Overview](images/overview.png)
+![Attrition Overview](iamges_hr attrition dashboard.png)
 
 ## 🚀 How to Use
 1. Download the `.pbix` file from this repository.

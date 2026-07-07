@@ -198,8 +198,7 @@ The dashboard enables HR teams to:
 ## 📷 Screenshots
 
 ### Dashboard
-
-(Add Dashboard Screenshot)
+dashboard.png
 
 ### Power BI Report
 

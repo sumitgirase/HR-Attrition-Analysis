@@ -100,7 +100,7 @@ HR-Attrition-Analysis/
 
 > Add your dashboard screenshot below.
 
-![Dashboard](images_hr attrition dashboard.png)
+![Dashboard]( dashboard.png)
 
 ---
 
@@ -198,7 +198,7 @@ The dashboard enables HR teams to:
 ## 📷 Screenshots
 
 ### Dashboard
-dashboard.png
+( dashboard.png)
 
 ### Power BI Report
 
